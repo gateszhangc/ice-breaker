@@ -93,3 +93,6 @@ jspm_packages/
 # Temporary folders
 tmp/
 temp/
+
+# project specs
+.kiro/specs/ice-breaker-games/
