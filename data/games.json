@@ -1,0 +1,711 @@
+[
+    {
+        "id": "two-truths-one-lie",
+        "title": "Two Truths and a Lie",
+        "description": "A classic icebreaker game where participants share three statements about themselves - two true and one false. Others must guess which statement is the lie. This game helps team members get to know each other better while creating a relaxed and fun atmosphere.",
+        "shortDescription": "Share three statements, one is false, let others guess",
+        "category": "team-building",
+        "participants": {
+            "min": 5,
+            "max": 20
+        },
+        "duration": {
+            "min": 15,
+            "max": 30
+        },
+        "difficulty": "easy",
+        "materials": [
+            "No special materials needed"
+        ],
+        "steps": [
+            "Have all participants sit in a circle or gather together",
+            "Explain the rules: each person shares three statements about themselves, two true and one false",
+            "The first person shares their three statements",
+            "Other participants discuss and vote on which one is false",
+            "The speaker reveals the correct answer and shares the story behind it",
+            "Continue in order until everyone has shared"
+        ],
+        "tips": [
+            "Encourage participants to share interesting or surprising facts",
+            "Host should create a relaxed atmosphere to avoid pressure",
+            "Set time limits to keep the game moving"
+        ],
+        "variants": [
+            "Online version: Use video conferencing tools, participants can vote in chat",
+            "Quick version: Each person only says two statements, one true and one false",
+            "Themed version: Limit statements to specific topics like childhood experiences or travel stories"
+        ],
+        "tags": [
+            "icebreaker",
+            "introduction",
+            "team building",
+            "no materials"
+        ],
+        "objectives": [
+            "Help team members get to know each other",
+            "Create a relaxed atmosphere",
+            "Practice observation and judgment skills"
+        ]
+    },
+    {
+        "id": "human-knot",
+        "title": "Human Knot",
+        "description": "Participants stand in a circle and randomly grab hands with others, forming a complex human knot. The team must untangle the knot through communication and collaboration without letting go of hands. This classic game tests teamwork and communication skills.",
+        "shortDescription": "Team collaboration to untangle the human knot",
+        "category": "team-building",
+        "participants": {
+            "min": 8,
+            "max": 20
+        },
+        "duration": {
+            "min": 10,
+            "max": 20
+        },
+        "difficulty": "medium",
+        "materials": [
+            "Open space"
+        ],
+        "steps": [
+            "Have all participants stand in a tight circle",
+            "Each person extends their right hand and grabs another person's hand (not adjacent)",
+            "Then extend left hand and grab a different person's hand",
+            "Now you have formed a complex human knot",
+            "Team must untangle the knot through ducking, stepping over, and turning without letting go",
+            "Final goal is to form one or more circles"
+        ],
+        "tips": [
+            "Remind participants to be safe and gentle with movements",
+            "Encourage team members to communicate actively and suggest solutions",
+            "If the knot is too complex, allow one release and re-grip opportunity"
+        ],
+        "variants": [
+            "Increased difficulty: Require complete silence throughout",
+            "Competition version: Multiple groups compete to see who untangles fastest"
+        ],
+        "tags": [
+            "teamwork",
+            "communication",
+            "icebreaker",
+            "outdoor"
+        ],
+        "objectives": [
+            "Enhance team collaboration",
+            "Improve communication skills",
+            "Break physical contact awkwardness"
+        ]
+    },
+    {
+        "id": "quick-intro",
+        "title": "60-Second Introduction",
+        "description": "Each participant has 60 seconds to introduce themselves, sharing their name, role, hobbies, or an interesting fact. This game is simple and efficient, perfect for quick icebreaking.",
+        "shortDescription": "Quick 60-second self-introduction, simple and efficient",
+        "category": "online-meeting",
+        "participants": {
+            "min": 3,
+            "max": 15
+        },
+        "duration": {
+            "min": 5,
+            "max": 15
+        },
+        "difficulty": "easy",
+        "materials": [
+            "Timer"
+        ],
+        "steps": [
+            "Host explains the rules: each person has 60 seconds to introduce themselves",
+            "Can share name, role, hobbies, or an interesting fact",
+            "Start in order, host keeps time",
+            "When time is up, politely remind the next person",
+            "After everyone introduces, can have brief Q&A"
+        ],
+        "tips": [
+            "Inform participants in advance so they can prepare",
+            "Create a relaxed atmosphere to avoid nervousness",
+            "Host can demonstrate first"
+        ],
+        "variants": [
+            "Themed introduction: Limit content like my superpower or my dream",
+            "Picture introduction: Participants share a photo representing themselves and explain"
+        ],
+        "tags": [
+            "quick icebreaker",
+            "introduction",
+            "online meeting",
+            "simple"
+        ],
+        "objectives": [
+            "Quickly get to know team members",
+            "Save time",
+            "Suitable for online meetings"
+        ]
+    },
+    {
+        "id": "desert-island",
+        "title": "Desert Island Survival",
+        "description": "Participants imagine being stranded on a desert island and can only bring three items. Each person shares their choices and reasons, revealing personal values and priorities.",
+        "shortDescription": "Choose three items for a desert island, share reasons",
+        "category": "get-to-know",
+        "participants": {
+            "min": 5,
+            "max": 15
+        },
+        "duration": {
+            "min": 15,
+            "max": 25
+        },
+        "difficulty": "easy",
+        "materials": [
+            "No special materials needed"
+        ],
+        "steps": [
+            "Host sets the scene: you are stranded on a desert island",
+            "Each person can bring three items (excluding food and water)",
+            "Give participants 2-3 minutes to think",
+            "Each person shares their choices and reasons in turn",
+            "Others can ask questions or comment",
+            "Discuss the values behind different choices"
+        ],
+        "tips": [
+            "Encourage creative thinking",
+            "Avoid judging others' choices",
+            "Can guide discussion on importance of teamwork"
+        ],
+        "variants": [
+            "Time machine version: If you could go to past or future, what would you bring",
+            "Team version: Entire team can only bring three items, must reach consensus"
+        ],
+        "tags": [
+            "values",
+            "discussion",
+            "creative",
+            "no materials"
+        ],
+        "objectives": [
+            "Understand team members' values",
+            "Stimulate creative thinking",
+            "Promote deep communication"
+        ]
+    },
+    {
+        "id": "word-association",
+        "title": "Word Association",
+        "description": "Participants form a circle, first person says a word, next person says a related word, and so on. This game quickly energizes the atmosphere and exercises reaction skills.",
+        "shortDescription": "Quickly say related words, energize atmosphere",
+        "category": "energizer",
+        "participants": {
+            "min": 5,
+            "max": 30
+        },
+        "duration": {
+            "min": 5,
+            "max": 10
+        },
+        "difficulty": "easy",
+        "materials": [
+            "No special materials needed"
+        ],
+        "steps": [
+            "Participants form a circle or sit in order",
+            "First person says a word (like sun)",
+            "Next person quickly says a related word (like warm)",
+            "Continue the chain, cannot repeat words already said",
+            "If someone pauses more than 3 seconds or repeats, they are out",
+            "Continue until only one person remains"
+        ],
+        "tips": [
+            "Keep a fast pace to increase fun",
+            "Can set themes like only animals or food",
+            "Create a relaxed atmosphere, don't be too serious"
+        ],
+        "variants": [
+            "Antonym version: Say the opposite of the previous word",
+            "First letter version: Next word must start with last letter of previous word"
+        ],
+        "tags": [
+            "quick",
+            "reaction",
+            "energize",
+            "no materials"
+        ],
+        "objectives": [
+            "Quickly energize atmosphere",
+            "Exercise reaction skills",
+            "Increase interaction"
+        ]
+    },
+    {
+        "id": "common-ground",
+        "title": "Find Common Ground",
+        "description": "Participants split into small groups and find commonalities among all group members within a time limit. This game helps team members discover similarities and increase understanding.",
+        "shortDescription": "Find commonalities among all group members",
+        "category": "small-group",
+        "participants": {
+            "min": 6,
+            "max": 20
+        },
+        "duration": {
+            "min": 10,
+            "max": 20
+        },
+        "difficulty": "easy",
+        "materials": [
+            "Paper and pen"
+        ],
+        "steps": [
+            "Divide participants into groups of 3-5 people",
+            "Give each group 5-10 minutes",
+            "Group members discuss and find commonalities among everyone",
+            "Commonalities can be interests, experiences, preferences, etc.",
+            "Record at least 5 commonalities",
+            "Each group shares their findings",
+            "Discuss how these commonalities can help teamwork"
+        ],
+        "tips": [
+            "Encourage finding unique or interesting commonalities",
+            "Avoid too superficial commonalities (like we are all human)",
+            "Can set rewards to motivate groups to find more commonalities"
+        ],
+        "variants": [
+            "Difference version: Find unique characteristics of each person",
+            "Competition version: See which group finds the most commonalities"
+        ],
+        "tags": [
+            "small group",
+            "get to know",
+            "discussion",
+            "simple"
+        ],
+        "objectives": [
+            "Discover similarities among team members",
+            "Increase mutual understanding",
+            "Build sense of connection"
+        ]
+    },
+    {
+        "id": "emoji-story",
+        "title": "Emoji Story",
+        "description": "Participants use emojis to tell a story or describe their day, others guess the content. This creative game is perfect for online meetings.",
+        "shortDescription": "Tell stories with emojis, others guess",
+        "category": "online-meeting",
+        "participants": {
+            "min": 4,
+            "max": 15
+        },
+        "duration": {
+            "min": 10,
+            "max": 20
+        },
+        "difficulty": "easy",
+        "materials": [
+            "Chat tool or whiteboard"
+        ],
+        "steps": [
+            "Host explains rules: tell a story using emojis",
+            "First person sends a string of emojis in chat",
+            "Others guess the story content",
+            "Storyteller reveals answer and explains",
+            "Take turns, everyone gets a chance to tell a story"
+        ],
+        "tips": [
+            "Encourage creativity and humor",
+            "Can set themes like my weekend or my dream",
+            "Keep atmosphere light and fun"
+        ],
+        "variants": [
+            "Movie titles: Use emojis to represent movie names, others guess",
+            "Team collaboration: Multiple people collaborate to tell a complete story with emojis"
+        ],
+        "tags": [
+            "creative",
+            "online meeting",
+            "fun",
+            "simple"
+        ],
+        "objectives": [
+            "Stimulate creativity",
+            "Increase interaction",
+            "Suitable for remote teams"
+        ]
+    },
+    {
+        "id": "speed-networking",
+        "title": "Speed Networking",
+        "description": "Participants pair up for 2-3 minute quick exchanges, then rotate partners. This game allows everyone to quickly meet multiple team members.",
+        "shortDescription": "Pair up for quick exchanges, rotate partners",
+        "category": "get-to-know",
+        "participants": {
+            "min": 8,
+            "max": 30
+        },
+        "duration": {
+            "min": 15,
+            "max": 30
+        },
+        "difficulty": "easy",
+        "materials": [
+            "Timer"
+        ],
+        "steps": [
+            "Divide participants into two rows, facing each other standing or sitting",
+            "Each pair has 2-3 minutes to introduce and chat",
+            "Host keeps time, reminds when time is up",
+            "One row moves right one position, new partners",
+            "Continue chatting, repeat multiple rounds",
+            "Finally can share most memorable conversations"
+        ],
+        "tips": [
+            "Provide topic prompts like your hobbies or recent achievements",
+            "Keep pace tight to avoid awkward silences",
+            "Encourage active listening"
+        ],
+        "variants": [
+            "Online version: Use breakout room features",
+            "Themed version: Set different topics for each round"
+        ],
+        "tags": [
+            "quick meet",
+            "networking",
+            "efficient",
+            "large groups"
+        ],
+        "objectives": [
+            "Quickly meet multiple team members",
+            "Improve social skills",
+            "Break unfamiliarity"
+        ]
+    },
+    {
+        "id": "brainstorm-challenge",
+        "title": "Brainstorm Challenge",
+        "description": "Give the team a creative problem and generate as many solutions as possible within a time limit. This game stimulates creativity and teamwork.",
+        "shortDescription": "Timed brainstorming for creative solutions",
+        "category": "creative-thinking",
+        "participants": {
+            "min": 5,
+            "max": 20
+        },
+        "duration": {
+            "min": 15,
+            "max": 30
+        },
+        "difficulty": "medium",
+        "materials": [
+            "Whiteboard or paper",
+            "Pens"
+        ],
+        "steps": [
+            "Host presents a creative problem (like how to make the office more fun)",
+            "Divide participants into small groups (3-5 people)",
+            "Give each group 10 minutes to brainstorm",
+            "Encourage any ideas, no judgment",
+            "Record all ideas",
+            "Each group shares their top 3 favorite ideas",
+            "Everyone votes to select the best creative idea"
+        ],
+        "tips": [
+            "Emphasize quantity over quality, encourage bold ideas",
+            "Prohibit criticizing or rejecting others' ideas",
+            "Can use sticky notes for easy organization and categorization"
+        ],
+        "variants": [
+            "Crazy ideas: Require the most outrageous, impractical ideas",
+            "Constraints: Add limitations like zero budget or only recycled materials"
+        ],
+        "tags": [
+            "creative",
+            "brainstorming",
+            "teamwork",
+            "problem solving"
+        ],
+        "objectives": [
+            "Stimulate creative thinking",
+            "Foster team collaboration",
+            "Practice open-minded thinking"
+        ]
+    },
+    {
+        "id": "would-you-rather",
+        "title": "Would You Rather",
+        "description": "Host presents would you rather A or B questions, participants choose and explain their reasoning. This game sparks interesting discussions and reveals values.",
+        "shortDescription": "Choose between two options, share reasons",
+        "category": "get-to-know",
+        "participants": {
+            "min": 5,
+            "max": 25
+        },
+        "duration": {
+            "min": 10,
+            "max": 20
+        },
+        "difficulty": "easy",
+        "materials": [
+            "Question list"
+        ],
+        "steps": [
+            "Host prepares a series of would you rather questions",
+            "Present first question (like would you rather fly or be invisible)",
+            "Participants raise hands or move to different areas of room to show choice",
+            "Invite several participants to share their reasoning",
+            "Continue to next question",
+            "Can let participants suggest their own questions"
+        ],
+        "tips": [
+            "Choose interesting or thought-provoking questions",
+            "Avoid overly sensitive or controversial topics",
+            "Encourage humorous and creative answers"
+        ],
+        "variants": [
+            "Work-related: Questions related to work scenarios",
+            "Extreme choices: Present two equally undesirable options"
+        ],
+        "tags": [
+            "discussion",
+            "values",
+            "fun",
+            "simple"
+        ],
+        "objectives": [
+            "Understand team members' preferences",
+            "Spark interesting discussions",
+            "Energize atmosphere"
+        ]
+    },
+    {
+        "id": "picture-story",
+        "title": "Picture Story Chain",
+        "description": "Participants take turns choosing pictures and telling part of a story, collaboratively creating a complete narrative. This game stimulates creativity and teamwork.",
+        "shortDescription": "Take turns choosing pictures to tell story, create together",
+        "category": "creative-thinking",
+        "participants": {
+            "min": 4,
+            "max": 12
+        },
+        "duration": {
+            "min": 15,
+            "max": 25
+        },
+        "difficulty": "medium",
+        "materials": [
+            "Picture cards or online image library"
+        ],
+        "steps": [
+            "Prepare a series of random pictures (can be photos, illustrations, etc.)",
+            "First person chooses a picture and starts the story",
+            "Next person chooses another picture and continues the story",
+            "Each person tells for 1-2 minutes",
+            "Take turns until the story concludes",
+            "Discuss the creativity and team collaboration in the story"
+        ],
+        "tips": [
+            "Encourage creativity and humor",
+            "Remind participants to listen to previous content to keep story coherent",
+            "Can record or write down the story"
+        ],
+        "variants": [
+            "Themed story: Limit story type like sci-fi or fairy tale",
+            "Competition version: Multiple groups compete, vote for best story"
+        ],
+        "tags": [
+            "creative",
+            "storytelling",
+            "teamwork",
+            "imagination"
+        ],
+        "objectives": [
+            "Stimulate creativity",
+            "Develop listening skills",
+            "Enhance team collaboration"
+        ]
+    },
+    {
+        "id": "virtual-scavenger-hunt",
+        "title": "Virtual Scavenger Hunt",
+        "description": "Host lists a series of items, participants must find and show these items from home. This game is perfect for online meetings and quickly energizes the atmosphere.",
+        "shortDescription": "Find specified items at home and show them",
+        "category": "online-meeting",
+        "participants": {
+            "min": 5,
+            "max": 20
+        },
+        "duration": {
+            "min": 10,
+            "max": 20
+        },
+        "difficulty": "easy",
+        "materials": [
+            "Item list"
+        ],
+        "steps": [
+            "Host prepares an item list (like something red or childhood photo)",
+            "Announce first item",
+            "Participants have 30-60 seconds to find it",
+            "Those who find it show the item and briefly introduce it",
+            "Continue to next item",
+            "Can keep score, fastest finder gets points"
+        ],
+        "tips": [
+            "Choose interesting items with stories",
+            "Control time, maintain pace",
+            "Encourage participants to share stories behind items"
+        ],
+        "variants": [
+            "Themed hunt: Limit theme like childhood memories or travel souvenirs",
+            "Creative hunt: Require finding most unique or creative items"
+        ],
+        "tags": [
+            "online meeting",
+            "fun",
+            "quick",
+            "interactive"
+        ],
+        "objectives": [
+            "Energize online meeting atmosphere",
+            "Increase interaction",
+            "Learn about team members' lives"
+        ]
+    },
+    {
+        "id": "one-word-story",
+        "title": "One Word Story",
+        "description": "Participants take turns saying one word to collaboratively create a story. This game tests reaction skills and creativity, quickly energizing the atmosphere.",
+        "shortDescription": "Each person says one word, create story together",
+        "category": "energizer",
+        "participants": {
+            "min": 5,
+            "max": 15
+        },
+        "duration": {
+            "min": 5,
+            "max": 15
+        },
+        "difficulty": "easy",
+        "materials": [
+            "No special materials needed"
+        ],
+        "steps": [
+            "Participants form a circle or sit in order",
+            "First person says one word to start story (like once)",
+            "Next person says one word to continue (like upon)",
+            "Take turns, each person can only say one word",
+            "Try to keep story coherent and interesting",
+            "Can set an ending point or let story end naturally"
+        ],
+        "tips": [
+            "Keep fast pace",
+            "Encourage creativity and humor",
+            "If story gets stuck, can restart"
+        ],
+        "variants": [
+            "Three word story: Each person says three words",
+            "Themed story: Limit story theme or type"
+        ],
+        "tags": [
+            "quick",
+            "creative",
+            "reaction",
+            "no materials"
+        ],
+        "objectives": [
+            "Quickly energize atmosphere",
+            "Exercise reaction skills",
+            "Stimulate creativity"
+        ]
+    },
+    {
+        "id": "team-trivia",
+        "title": "Team Trivia",
+        "description": "Host asks questions about team members or company, participants compete to answer. This game increases understanding among team members.",
+        "shortDescription": "Answer questions about the team, increase understanding",
+        "category": "team-building",
+        "participants": {
+            "min": 6,
+            "max": 30
+        },
+        "duration": {
+            "min": 15,
+            "max": 30
+        },
+        "difficulty": "medium",
+        "materials": [
+            "Question list",
+            "Scoreboard"
+        ],
+        "steps": [
+            "Host prepares questions about team members in advance",
+            "Can divide into small groups for competition",
+            "Host presents question",
+            "Participants or groups compete to answer",
+            "Correct answers earn points, wrong answers don't lose points",
+            "Finally tally scores and announce winner"
+        ],
+        "tips": [
+            "Questions should be interesting but not invasive of privacy",
+            "Can include company history, team achievements, etc.",
+            "Keep atmosphere light and fun"
+        ],
+        "variants": [
+            "Personal version: Each person submits questions about themselves in advance",
+            "Guess who: Based on descriptions, guess which team member"
+        ],
+        "tags": [
+            "team building",
+            "knowledge",
+            "competition",
+            "fun"
+        ],
+        "objectives": [
+            "Increase team understanding",
+            "Review team history",
+            "Strengthen team cohesion"
+        ]
+    },
+    {
+        "id": "compliment-circle",
+        "title": "Compliment Circle",
+        "description": "Participants form a circle, each person gives a sincere compliment to the person on their right. This game creates a positive atmosphere and strengthens team cohesion.",
+        "shortDescription": "Give compliments to each other, create positive atmosphere",
+        "category": "team-building",
+        "participants": {
+            "min": 5,
+            "max": 20
+        },
+        "duration": {
+            "min": 10,
+            "max": 20
+        },
+        "difficulty": "easy",
+        "materials": [
+            "No special materials needed"
+        ],
+        "steps": [
+            "Participants form a circle",
+            "Explain rules: each person gives a sincere compliment to person on their right",
+            "Compliments can be about work performance, personal qualities, or any positive aspect",
+            "Start with first person, proceed clockwise",
+            "Everyone gets a chance to give and receive compliments",
+            "After finishing, can share feelings"
+        ],
+        "tips": [
+            "Emphasize sincerity and specificity",
+            "Avoid empty compliments",
+            "Create warm and supportive atmosphere",
+            "Remind participants to listen and accept compliments"
+        ],
+        "variants": [
+            "Random compliments: Draw names to determine compliment recipient",
+            "Written compliments: Write on notes, share anonymously"
+        ],
+        "tags": [
+            "positive",
+            "team building",
+            "emotional connection",
+            "simple"
+        ],
+        "objectives": [
+            "Create positive atmosphere",
+            "Strengthen team cohesion",
+            "Boost team morale"
+        ]
+    }
+]
