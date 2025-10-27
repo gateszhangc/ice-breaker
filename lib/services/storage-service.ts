@@ -9,7 +9,8 @@ function isLocalStorageAvailable(): boolean {
     localStorage.setItem(test, test);
     localStorage.removeItem(test);
     return true;
-  } catch (e) {
+  } catch (error) {
+    console.error("LocalStorage test failed:", error);
     return false;
   }
 }

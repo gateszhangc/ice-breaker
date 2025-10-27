@@ -10,7 +10,7 @@ export default function NotFound() {
           🔍 Page Not Found
         </h2>
         <p className="text-xl text-gray-600 mb-8">
-          Sorry, we couldn't find the page you're looking for
+          Sorry, we couldn&apos;t find the page you&apos;re looking for
         </p>
         <Link href="/">
           <Button size="lg" className="bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-lg px-8">
